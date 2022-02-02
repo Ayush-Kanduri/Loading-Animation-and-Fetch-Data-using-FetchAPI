@@ -3,7 +3,6 @@ This project uses the card loading animation &amp; fetch API to fetch the record
 
 ## Tools Used
 <p align="left">
-<img height="140" width="140" src="https://ps.w.org/display-php-version/assets/icon-256x256.png?rev=2075378">
 <img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
 <img height="140" width="140" src="https://logodix.com/logo/470309.png">
 <img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
@@ -11,7 +10,7 @@ This project uses the card loading animation &amp; fetch API to fetch the record
 </p>
 
 * Library: None
-* Scripting: Javascript, (PHP for Deploying the Application only on Heroku)
+* Scripting: Javascript
 * Front-End: HTML, CSS
 * Runtime Environment: None
 * Integrated Development Environment: VSCode
