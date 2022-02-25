@@ -16,6 +16,7 @@ This project uses the card loading animation &amp; fetch API to fetch the record
 * Integrated Development Environment: VSCode
 
 #
+> #### Checkout the Website [Web Application](https://bit.ly/3t7vPL1)
 > #### Checkout the Application Demo Video [YouTube](https://youtu.be/Cju_AYHgbF0)
 #
 
